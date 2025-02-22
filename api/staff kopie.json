@@ -1,0 +1,320 @@
+[
+  {
+    "id": "Hoschiar-Aziz",
+    "name": "Hoschiar",
+    "surname": "Aziz",
+    "position": "Inhaber / Geschäftsführer",
+    "expertise": "Physiotherapeut",
+    "description": "Inhaber/Geschäftsführer und staatlich anerkannter Physiotherapeut",
+    "further_education": [
+      "Manuelle Therapie (MT)",
+      "Craniomandibuläre Dysfunktion (CMD)",
+      "Krankengymnastik am Gerät (KGG)",
+      "Faszien Therapie mit Fazer", "Kopfschmerz-Syndrome", 
+      "Migränetherapie und Schwindelbehandlungen"
+    ],
+    "special_field": [
+      "Athletenbetreuung",
+      "Behandlung von Craniomanidbulärer Dysfunktion (CMD)", 
+      "Schwindel- und Migränebehandlungen", 
+      "Physiotherapeutische Betreuung und Begleitung - Internationale Patienten"
+    ],
+    "supervised_associations": [
+      "TSG-Hoffenheim (BL Frauen und Mädchenfußball seit 2019)",
+      "FSV 08 Bissingen (OL Fußball seit 2019)",
+      "RED DEVILS Heilbronn (BL Ringen, 2018)",
+      "Salt-Miners-Heilbronn (RL 2018)",
+      "SC-Abstatt (BZL Fußball, 2017/18)",
+      "SV-Schluchtern (LL Fußball, 2017)",
+      "FC-Union-Heilbronn (BZL, 2017)",
+      "Vfl-Sindelfingen (BL Fußball Frauen, 2013-2015)"
+    ],
+    "languages": [
+      "deutsch",
+      "englisch",
+      "kurdisch", 
+      "französisch\n\n"
+    ],
+    "image": "Hoschiar-Aziz"
+  },
+  {
+    "id": "Jacqueline-Stolz",
+    "name": "Jacqueline",
+    "surname": "Stolz",
+    "position": "Praxis-Managerin (IHK)",
+    "expertise": "Physiotherapeutin",
+    "description": "Praxis-Managerin (IHK) /\nStaatlich anerkannte Physiotherapeutin und Kinderphysiotherapeutin",
+    "further_education": [
+      "Manuelle Lymphdrainage (MLD)",
+      "Bobath-Kinder",
+      "Kinesio-Taping", 
+      "Kopfschmerz-Syndrome", 
+      "Migränetherapie und Schwindelbehandlungen", 
+      "Praxismanager"
+    ],
+    "special_field": [
+      "Athletenbetreuung",
+      "Physiotherapeutische Behandlung von Kindern auch in Einrichtungen"
+    ],
+    "supervised_associations": [
+      "Bezirksliga Herren des FSV Bad Friedrichshall",
+      "Landesliga Herren des SV Leingarten"
+    ],
+    "languages": [
+      "deutsch",
+      "englisch\n\n"
+    ],
+    "image": "Jacqueline-Stolz"
+  },
+  {
+    "id": "Anja-Loesche",
+    "name": "Anja",
+    "surname": "Loesche",
+    "position": "Fachliche Leitung",
+    "expertise": "Physiotherapeutin",
+    "description": "Fachliche Leitung /\nStaatlich anerkannte Physiotherapeutin",
+    "further_education": [
+      "SGD – Fernstudium Personal u. Businesscoach",
+      "SGD - Fernstudium Angst und Stressbewältigung",
+      "SGD - Fernstudium Betriebliches Gesundheitsmanagement mit IHK-Zertifikat",
+      "Ausbildung zum Berater für Betriebliche Gesundheitsförderung mit IHK- Zertifikat",
+      "SGD - Fernstudium Recht",
+      "Ernährungscoachausbildung",
+      "Dynamic Tape Kurs",
+      "Ausbildung für den Fitnessführerschein/ Body Wave",
+      "TRX Qualified",
+      "fle-xx Basis-Ausbildung",
+      "Ausbildung in der Cranio sacralen Therapie",
+      "Abschlussprüfung zum sektoralen Heilpraktiker für Physiotherapie",
+      "Schmerzphysiotherapeut mit Abschlussprüfung",
+      "BodyBalancePilates Intensivierung",
+      "PNF Ausbildung mit Abschlussprüfung",
+      "Spiraldynamik Kniegelenk",
+      "Fibromyalgie-Syndrom Seminar",
+      "Rehabilitation bei Multipler Sklerose",
+      "Krankengymnastik mit Geräten",
+      "Physiotape Basiskurs I + II",
+      "Babymassage",
+      "Manuelle Lymphdrainage mit Abschlussprüfung",
+      "BodyBalancePilates - Instruktor mit Abschlussprüfung",
+      "Hot Stone Massage",
+      "Fortgeschrittenenkurs JIA",
+      "Therapeutisches Klettern",
+      "Pilates Aufbau-Kurs",
+      "Grundlagenseminar JIA",
+      "Pilates Seminar",
+      "Ausbildung zur Triggerpoint-Therapeutin",
+      "Ausbildung zur Dorn-Therapeutin",
+      "Ausbildung zur Kinder-Rheuma-Therapeutin",
+      "Ausbildung zur Jee Cee Therapeutin mit Abschlussprüfung (belgische MT)",
+      "Ausbildung zur Brügger-Therapeutin mit Abschlussprüfung"
+    ],
+    "special_field": [
+      "Pilateskursleiterin", 
+      "Hausbesuche"
+    ],
+    "supervised_associations": [
+      ""
+    ],
+    "languages": [
+      "deutsch\n\n"
+    ],
+    "image": "Anja-Loesche"
+  },
+  {
+    "id": "Patrick-Bittermann",
+    "name": "Patrick",
+    "surname": "Bittermann",
+    "position": "",
+    "expertise": "Physiotherapeut",
+    "description": "Staatlich anerkannter Physiotherapeut",
+    "further_education": [
+      "Krankengymnastik am Gerät ( KGG)",
+      "Manuelle Therapie ( MT)", 
+      "CMD", 
+      "Manuelle Lymphdrainage ( MLD)", 
+      "Bobath", 
+      "Kinesio Taping"
+    ],
+    "special_field": [
+      "Athletenbetreuung und Hausbesuche"
+    ],
+    "supervised_associations": [
+      "SV Schluchtern"
+    ],
+    "languages": [
+      "deutsch",
+      "englisch\n\n"
+    ],
+    "image": "Patrick-Bittermann"
+  },
+  {
+    "id": "Levente-Becsi",
+    "name": "Levente",
+    "surname": "Becsi",
+    "position": "",
+    "expertise": "Physiotherapeut",
+    "description": "Staatlich anerkannter Physiotherapeut",
+    "further_education": [
+      "KG",
+      "KMT",
+      "Krankengymnastik  am Gerät",
+      "CMD ( KG )"
+    ],
+    "special_field": [
+      "Behandlung von Schulter- und Nackenproblemen"
+    ],
+    "supervised_associations": [
+      ""
+    ],
+    "languages": [
+      "deutsch",
+      "englisch",
+      "ungarisch\n\n"
+    ],
+    "image": "Levente-Becsi"
+  },
+  {
+    "id": "Daniel-Antic",
+    "name": "Daniel",
+    "surname": "Antic",
+    "position": "",
+    "expertise": "Physiotherapeut",
+    "description": "Staatlich anerkannter Physiotherapeut",
+    "further_education": [
+      "KG"
+    ],
+    "special_field": [
+      ""
+    ],
+    "supervised_associations": [
+      ""
+    ],
+    "languages": [
+      "deutsch",
+      "englisch\n\n"
+    ],
+    "image": "Daniel-Antic"
+  },
+  {
+    "id": "Hawar-Aziz",
+    "name": "Hawar",
+    "surname": "Aziz",
+    "position": "Patienten- und Terminmanagement",
+    "expertise": "Anmeldung",
+    "description": "Terminierung und Organisation der Anmeldung",
+    "further_education": [
+      "Organisationsmanagement"
+    ],
+    "special_field": [
+      "Patientenmanagement"
+    ],
+    "supervised_associations": [
+      ""
+    ],
+    "languages": [
+      "deutsch",
+      "englisch",
+      "kurdisch",
+      "arabisch\n\n"
+    ],
+    "image": "Hawar-Aziz"
+  },
+  {
+    "id": "Elena-Kujundzic",
+    "name": "Elena",
+    "surname": "Kujundzic",
+    "position": "N.N.",
+    "expertise": "N.N.",
+    "description": "N.N.",
+    "further_education": [
+      "N.N."
+    ],
+    "special_field": [
+      "N.N."
+    ],
+    "supervised_associations": [
+      ""
+    ],
+    "languages": [
+      "deutsch",
+      "englisch\n\n"
+    ],
+    "image": "Elena-Kujundzic"
+  },
+  {
+    "id": "Kristina-Schirmer",
+    "name": "Kristina",
+    "surname": "Schirmer",
+    "position": "Businessmanagement",
+    "expertise": "Back Office",
+    "description": "Finanzmanagment",
+    "further_education": [
+      "Businessmanagement", 
+      "geprüfte Finanzbuchhalterin", 
+      "Qualitätsmanagment-Beauftragte"
+    ],
+    "special_field": [
+      "Qualitäts- und Finanzmanagement"
+    ],
+    "supervised_associations": [
+      ""
+    ],
+    "languages": [
+      "deutsch",
+      "englisch",
+      "französisch",
+      "chinesisch\n\n"
+    ],
+    "image": "Kristina-Schirmer"
+  },
+  {
+    "id": "Mladen-Matovic",
+    "name": "Mladen",
+    "surname": "Matovic",
+    "position": "Projekt & IT Management",
+    "expertise": "Projektmanager",
+    "description": "Projektmanagement",
+    "further_education": [
+      "Bachelor in Fitnesseconomy", 
+      "Sicherheits und Brandschutzbeauftragter", 
+      "Projektmanager", 
+      "Schweißer", 
+      "IT Spezialist"
+    ],
+    "special_field": [
+      "Praxisprojekte und IT"
+    ],
+    "supervised_associations": [
+      ""
+    ],
+    "languages": [
+      "deutsch",
+      "englisch",
+      "serbokroatisch", 
+      "französisch\n\n"
+    ],
+    "image": "Mladen-Matovic"
+  },
+  {
+    "id": "Cemil-Altintas",
+    "name": "Cemil",
+    "surname": "Altintas",
+    "position": "Facilitymanagement",
+    "expertise": "",
+    "description": "",
+    "further_education": [
+      ""
+    ],
+    "special_field": [
+      ""
+    ],
+    "supervised_associations": [
+      ""
+    ],
+    "languages": [
+      "deutsch\n\n"
+    ],
+    "image": "Cemil-Altintas"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Hoschiar",
+    "surname": "Aziz",
+    "position": "Inhaber / Geschäftsführer",
+    "expertise": "Physiotherapeut",
+    "description": "\nInhaber/Geschäftsführer und staatlich anerkannter Physiotherapeut\n\nFortbildungen:\n• Manuelle Therapie (MT)\n• Craniomandibuläre Dysfunktion (CMD)\n• Krankengymnastik am Gerät (KGG)\n• Faszien Therapie mit Fazer\n• Kinesio-Taping\n\nSpezialgebiet:\n• Athletenbetreuung\n• CMD\n\nBetreute Vereine:\n• TSG-Hoffenheim (BL Frauen und Mädchenfußball seit 2019)\n• FSV 08 Bissingen (OL Fußball seit 2019)\n• RED DEVILS Heilbronn (BL Ringen, 2018)\n• Salt-Miners-Heilbronn (RL,2018)\n• SC-Abstatt (BZL Fußball, 2017/18)\n• SV-Schluchtern (LL Fußball, 2017)\n• FC-Union-Heilbronn (BZL, 2017)\n• Vfl-Sindelfingen (BL Fußball Frauen, 2013-2015)\n\nSprachen:\n• deutsch\n• englisch\n• kurdisch\n\n",
+    "image": "Hoschiar-Aziz"
+  },
+  {
+    "id": 2,
+    "name": "Jacqueline",
+    "surname": "Stolz",
+    "position": "Fachbereichsleitung",
+    "expertise": "Physiotherapeutin",
+    "description": "\nFachbereichsleitung und staatlich anerkannte Physiotherapeutin und Kinderphysiotherapeutin\n\nFortbildungen:\n• Manuelle Lymphdrainage (MLD)\n• Bobath-Kinder\n• Kinesio-Taping\n\nSpezialgebiet:\n• Athletenbetreuung\n• Physiotherapeutische Behandlung von Kindern\n\nBetreute Vereine:\n• Bezirksliga Herren des FSV Bad Friedrichshall\n• Landesliga Herren des SV Leingarten\n\nSprachen:\n• deutsch\n• englisch\n\n",
+    "image": "Jacqueline-Boyde-Boehringer"
+  },
+  {
+    "id": 3,
+    "name": "Anja",
+    "surname": "Loesche",
+    "position": "Fachbereichsleitung",
+    "expertise": "Physiotherapeutin",
+    "description": "\nStaatlich anerkannte Physiotherapeutin\n\nFortbildungen:\n• SGD – Fernstudium Personal u. Businesscoach)\n• SGD - Fernstudium Angst und Stressbewältigung\n• SGD - Fernstudium Betriebliches Gesundheitsmanagement mit IHK-Zertifikat\n\nSpezialgebiet:\n• Pilateskursleiterin\n\nSprachen:\n• deutsch\n• englisch\n\n",
+    "image": "Logo_PHYSION"
+  },
+  {
+    "id": 4,
+    "name": "Hawar",
+    "surname": "Aziz",
+    "position": "Praxismanagement",
+    "expertise": "",
+    "description": "\nTerminierung und Organisation der Anmeldung\n\nSprachen:\n• deutsch\n• englisch\n• kurdisch\n• arabisch\n\n",
+    "image": "Hawar-Aziz"
+  }
+]

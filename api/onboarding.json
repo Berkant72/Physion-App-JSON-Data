@@ -1,0 +1,45 @@
+
+[
+  {
+    "id": 1,
+    "pageTitle": "PHYSION | HN App",
+    "pageDescription": "Bei Physion sind sie in den besten Händen. Jetzt auch mit der PHYSION | HN App alles Wichtige an einem Ort.",
+    "pageImage": "logo_pyhsion_claim"
+  },
+  {
+    "id": 2,
+    "pageTitle": "AKTUELLES",
+    "pageDescription": "Alle Neuigkeiten und Infos können Sie in den News lesen.\nWenn Sie möchten, erhalten Sie Push-Benachrichtigungen auf Ihr iOS Gerät auch wenn die App nicht geöffnet ist.",
+    "pageImage": "physion_onboading_news"
+  },
+  {
+    "id": 3,
+    "pageTitle": "WIR STELLEN UNS VOR",
+    "pageDescription": "Das Team um Hoschiar Aziz betreut Sie\nvon A bis Z.",
+    "pageImage": "physion_onboading_team"
+  },
+  {
+    "id": 4,
+    "pageTitle": "LEISTUNGEN",
+    "pageDescription": "Lesen Sie alles darüber was wir Ihnen anzubieten haben und einige Therapiearten sind zusätzlich mit einem Patientenflyer.",
+    "pageImage": "physion_onboading_therapy"
+  },
+  {
+    "id": 5,
+    "pageTitle": "TERMIN GEFÄLLIG?",
+    "pageDescription": "Wenn Sie einen Termin wünschen, gehen Sie auf Termin vereinbaren, füllen alle Felder aus und tippen anschließend oben rechts auf das Teilen Button. Es wird eine E-Mail generiert die Sie an uns senden können.",
+    "pageImage": "physion_onboading_date"
+  },
+  {
+    "id": 6,
+    "pageTitle": "EINSTELLUNGEN",
+    "pageDescription": "Über die drei horizontalen Schieberegler kommen Sie zu den Einstellungen. Hier können Sie die Push-Mitteilungen aktivieren uvm.",
+    "pageImage": "physion_onboading_settings"
+  },
+  {
+    "id": 7,
+    "pageTitle": "KONTAKTIEREN SIE UNS",
+    "pageDescription": "Sie können uns ganz einfach per E-Mail kontaktieren oder auch anrufen. Weitere Informationen finden Sie auch unserer Webseite.\nWir freuen uns auf Ihr Besuch in unserer Praxis bei Physion GmbH in Heilbronn.\n\nWir wünschen Ihnen viel Vergnügen mit der PHYSION | HN App.",
+    "pageImage": "physion_onboading_contact"
+  }
+]

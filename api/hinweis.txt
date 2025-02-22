@@ -1,0 +1,5 @@
+Achtung!!!
+physion_news.json hochladen über
+homepage/physion/api/physion_news.json
+
+Therapien.json wird nur vom Bundle geladen und nicht vom URL.

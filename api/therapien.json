@@ -1,0 +1,99 @@
+[
+  {
+    "id": "physiotherapie",
+    "category": "Physiotherapie",
+    "items": [
+      {
+        "id": "krankengymnastik",
+        "name": "Krankengymnastik (KG)",
+        "image": "Krankengymnastik",
+        "description": "\n\nDie Krankengymnastik ist eine Behandlungsform, mit der Krankheiten aus fast allen medizinischen Fachbereichen therapiert werden. Sie umfasst sowohl aktive als auch passive Therapieformen. Ziel der ist es, die Bewegungs- und Funktionsfähigkeit des Körpers zu verbessern\n\n- Förderung der Beweglichkeit durch aktive und funktionelle Übungen\n- Vermeidung von Versteifungen und Schmerzen durch passive Mobilisation\n- Stärkung von geschwächten Muskeln durch kräftigende Übungen zur Haltungs- und  Koordinationsverbesserung\n- Entspannungsübungen für verspannte Muskeln zur Wiederherstellung optimaler muskulärer Voraussetzungen\n- Atemübungen zur Unterstützung der Atmung bei Atemwegserkrankungen (Lockerung, Mobilisation, Sekretlösung, Erleichterung der Atmung)\n\nKrankengymnastik darf nur von Physiotherapeuten durchgeführt werden.\n\n\nFoto: Ulrich Steinle\n\n",
+        "flyer": ""
+      },
+      {
+        "id": "manuelle-therapie",
+        "name": "Manuelle Therapie (MT)",
+        "image": "Manuelle_Therapie",
+        "description": "\n\nDie Manuelle Therapie ist ein Behandlungsansatz, bei dem Funktionsstörungen des Bewegungsapparates untersucht und behandelt werden. Grundlage der Manuellen Therapie sind spezielle Handgriff- und Mobilisationstechniken, bei denen Schmerzen gelindert und Bewegungsstörungen beseitigt werden.\n\nPhysiotherapeuten untersuchen dabei die Gelenkmechanik, die Muskelfunktion sowie die Koordination der Bewegungen, bevor ein individueller Behandlungsplan festgelegt wird.\n\nDie Manuelle Therapie bedient sich sowohl passiver Techniken als auch aktiver Übungen Zum einen werden blockierte oder eingeschränkte Gelenke von geschulten Physiotherapeuten mithilfe sanfter Techniken mobilisiert, zum anderen können durch individuelle Übungen instabile Gelenke stabilisiert werden. Ziel des Behandlungskonzeptes: Wiederherstellung des Zusammenspieles zwischen Gelenken, Muskeln und Nerven.\n\nDie Manuelle Therapie darf nur von speziell dafür weitergebildeten Physiotherapeuten durchgeführt werden.\n\n\nFoto: Ulrich Steinle\n\n",
+        "flyer": ""
+      },
+      {
+        "id": "manuelle -lymphdrainage",
+        "name": "Manuelle Lymphdrainage (MLD)",
+        "image": "Handtuch_Physion",
+        "description": "\n\nDie Manuelle Lymphdrainage wird seit den 60-er Jahren von Physiotherapeuten mit entsprechender Zusatzqualifikation auf Verordnung des Arztes durchgeführt. Ziel der Behandlung ist es, die reduzierte Pumpfunktion des Gefäßsystems zu unterstützen. In erster Linie dient die manuelle Lymphdrainage der Entstauung von geschwollenem Gewebe. Hierbei handelt es sich zumeist um Schwellungen an Armen oder Beinen. Physiotherapeuten verwenden dabei spezielle Handgriffe, bei denen zum Beispiel durch rhythmische, kreisende und pumpende Bewegungen der Handflächen die angestaute Flüssigkeit in Richtung der zuständigen Lymphknotenstation abtransportiert wird. Durch die Atmung und durch zusätzliche Anregung entfernt liegender Lymphknoten kann dabei eine Sogwirkung erzielt werden, die den Abtransport der Gewebsflüssigkeit begünstigt. Das Gewebe schwillt ab, die Schmerzen werden gelindert und das Gewebe wird lockerer und weicher, was sich ebenfalls auf die Beweglichkeit auswirkt.\n\nDie Manuelle Lymphdrainage wird häufig als 2-Phasentherapie angewandt. Die Phase I der Entstauung bedeutet tägliche Lymphdrainagetherapie, Hautpflege, Kompressionstherapie mit Bandagen und Entstauungstherapie, die Phase II bedeutet Manuelle Lymphdrainage nach Bedarf und Kompression mit einem nach Maß angefertigten Kompressionsstrumpf und Gymnastik zur Entstauung. Die Manuelle Lymphdrainage ist somit ein Teil der Komplexen Physikalischen Entstauungstherapie.\n\nDie Manuelle Lymphdrainage darf von speziell dafür weitergebildeten Physiotherapeuten durchgeführt werden.\n\n\nFoto: Ulrich Steinle\n\n",
+        "flyer": ""
+      },
+      {
+        "id": "klassische-massage-therapie",
+        "name": "Klassische Massage Therapie (KMT)",
+        "image": "Klassische_Massage_Therapie",
+        "description": "\n\nDie Massage ist eine der bekanntesten und ältesten Heilmethoden. Die klassische Massage entstand aus einer griechisch-römischen Tradition und wurde im 19. Jahrhundert maßgeblich durch den Heilgymnasten Per Henrik Link und den Arzt J. Georg Metzger vorangetrieben.\n\nMassagen können sowohl als alleinige Behandlungsform für sich stehen, sie werden aber häufig auch unterstützend zu anderen Therapieformen eingesetzt. Massagen können vom Arzt verschrieben werden.\n\nDie klassische Massage dient dazu, verspannte Muskelpartien zu lockern, die Durchblutung und den Stoffwechsel zu fördern, den Kreislauf, den Blutdruck, die Atmung und die Psyche positiv zu beeinflussen sowie Schmerzen zu reduzieren. Unterschiedliche Grifftechniken, wie zum Beispiel Streichung, Knetung, Walken, Rollen, Lockern, Hacken, Klatschen, Klopfungen oder Reiben werden dabei von Therapeuten je nach gewünschter Wirkung angewendet.\n\nNeben der klassischen Massage haben sich heutzutage die unterschiedlichsten Massageformen entwickelt: wie beispielsweise Bindegewebsmassage, Aromamassage, Reflexzonenmassage oder Unterwasserdruckstrahlmassage.\n\n\nFoto: Ulrich Steinle\n\n",
+        "flyer": ""
+      },
+      {
+        "id": "krankengymnastik-am-geraet",
+        "name": "KG am Gerät (KGG)",
+        "image": "KG_am_Geraet",
+        "description": "\n\nDie gerätegestützte Krankengymnastik (KGG) ist eine aktive Behandlungsform der Physiotherapie, bei der medizinische Trainingsgeräte und Zugapparate eingesetzt werden.\n\nDas Ziel dieser Therapieform ist die Verbesserung von Kraft, Ausdauer, Beweglichkeit und Koordination. Die Krankengymnastik am Gerät ist ein wichtiges Element in der Rehabilitation nach Operationen, Knochenbrüchen oder Gelenkverletzungen, kann aber auch in der Prävention von Verschleiß- und Rückenerkrankungen eingesetzt werden.\n\nDer Physiotherapeut erarbeitet je nach Krankheitsbild des Patienten einen individuellen Behandlungsplan. Im Fokus steht dabei die Erarbeitung funktioneller und automatisierter Bewegungsmuster. Von besonderer Bedeutung ist die systematische Wiederholung bestimmter Muskelanspannungen mit dem Ziel der Leistungssteigerung.\n\nDie gerätegestützte Krankengymnastik kann nur von speziell dafür weitergebildeten Physiotherapeuten in besonders ausgestatteten Praxen durchgeführt werden.\n\n\nFoto: Ulrich Steinle\n\n",
+        "flyer": ""
+      },
+      {
+        "id": "waerme-kaelte-therapie",
+        "name": "Wärme-/Kältetherapie",
+        "image": "Handtuch_Physion",
+        "description": "\n\nIn der Physiotherapie werden verschiedene Therapieverfahren eingesetzt, die Wärme oder Kälte nutzen, um eine schmerzlindernde Wirkung beim Patienten zu erzielen. Sowohl Wärme- als auch Kälteanwendungen können lokal oder am ganzen Körper eingesetzt werden. Welches Verfahren angewandt wird, richtet sich nach dem jeweiligen Schmerzbild.\n\nDie Wärmetherapie wird häufig als unterstützende Maßnahme eingesetzt, weil sie die Durchblutung fördert und entspannend auf die Muskulatur und das Gewebe einwirkt. Verfahren der Wärmetherapie sind zum Beispiel Wärmepackungen, die aus Moor oder Fango bestehen. Wirkung: durchblutungsfördernd, muskelentspannend und schmerzlindernd. Außerdem kommen spezielle Strahler (Heißluft) zum Einsatz, die schmerzende Körperpartien erwärmen. Wirkung: durchblutungsfördernd, schmerzlindernd.\n\nAuch die Kältetherapie wird häufig als unterstützende Maßnahme eingesetzt. Es gibt unterschiedliche Formen: wie zum Beispiel Kühlpacks, Kompressen, Eisbad oder Eisabreibung. Die Wirkung der Kältetherapie ist je nach Temperatur unterschiedlich. Sie wirkt schmerzlindernd, entzündungshemmend und verbessert die Durchblutung.\n\n\nFoto: Ulrich Steinle\n\n",
+        "flyer": ""
+      },
+      {
+        "id": "lasertherapie",
+        "name": "Lasertherapie",
+        "image": "Lasertherapie",
+        "description": "\n\nDie Lasertherapie wird bei schmerzhaften Erkrankungen des Bewegungsapparates erfolgreich eingesetzt.\n\nInfos im Patientenflyer.\n\n\nFoto: Ulrich Steinle\n\n",
+        "flyer": "Patientenflyer_OptonPro"
+      },
+      {
+        "id": "radiale-stosswellentherapie",
+        "name": "Radiale Stoßwellentherapie",
+        "image": "Radiale_Stosswellentherapie",
+        "description": "\n\nMit mechanischen Stoßwellen gegen den Schmerz.\n\nHoch-Energie-Pulse aktivieren und beschleunigen Heilungsprozesse auf natürlichem Weg.\n\nInfos im Patientenflyer.\n\n\nFoto: Ulrich Steinle\n\n",
+        "flyer": "Patientenflyer_enPuls_Version2"
+      },
+      {
+        "id": "magnetfeldtherapie",
+        "name": "Magnetfeldtherapie",
+        "image": "Magnetfeld_Therapie",
+        "description": "\n\nHeilen auf natürliche Weise – Qualität durch Kompetenz\n\nErleben Sie die Kraft der Hochenergie-Induktionstherapie.\n\nSchmerz ist eines der am stärksten wachsenden Gesundheitsprobleme der Welt. Studien deuten darauf hin, dass etwa 20 % der Erwachsenen unter Schmerzen leiden.\n\nZimmer MedizinSysteme setzt mit der innovativen Hochenergie-Induktionstherapie neue Standards in der Schmerztherapie.\n\nNeben der effektiven Schmerzbehandlung wird die Hochenergie-Induktionstherapie häufig eingesetzt, um den Muskeltonus zu beeinflussen, die Durchblutung zu verbessern und den Regenerationsprozess zu aktivieren.\n\nHochenergie-Induktionstherapie\nDer menschliche Körper besitzt eine gute Leitfähigkeit und ist auch für Magnetfelder leitfähig. Da die Ionen in einer Zelle eine Ladung haben, braucht auch die Zellmembran eine bestimmte Ladung.\n\nDie Membranladung von normalen, gesunden Zellen ist höher als die von kranken oder gealterten Zellen; dies gilt auch für Bakterien und Viren. Wenn die Ladung der Zellmembran niedrig ist, hat die Zelle zu wenig Energie, um ihre normale Funktion zu erfüllen.\n\nDaher benötigen Zellen Energie. Die Stimulation durch ein elektromagnetisches Feld erhöht bekanntermaßen diese Energie und optimiert die Funktion der Zelle.\n\nElektromagnetische Felder können Zellen, Gewebe, Organe und Knochen ohne Verformung oder Verlust durchdringen, die Elektrochemie von Geweben aktivieren und die Funktion von Zellen und Zellmembranen verbessern.\nemFieldPro erzeugt ein Magnetfeld von 3 Tesla, das etwa 600-mal stärker ist als ein normaler Magnetstab. Dieses starke Magnetfeld regt folglich Nervenzellen, Muskeln und Blutgefäße an.\n\nDie Behandlung mit emFieldPro\n\nKombinierte Anwendung – statisch und dynamisch\nSehr oft sind die Schmerzen nicht gleichmäßig im Behandlungsbereich verteilt. Bei vielen Schmerzsyndromen liegen die Maximalpunkte wie Trigger- oder Schmerzpunkte in der schmerzhaften Region. Triggerpunkte und Hauptschmerzpunkte werden statisch behandelt, während sonstige Schmerzbereiche einer dynamischen Behandlung unterzogen werden.\n\nBei kombinierter Behandlung ist darauf zu achten, dass zunächst die statische Therapie auf die Schmerz- und Triggerpunkte angewendet wird. Eine umfangreiche Behandlung kann dann mit einer dynamischen Anwendung fortgesetzt werden.\n\nStatische Behandlung\nFür statische Behandlungen wird der große Applikator verwendet, der am Applikatorarm montiert ist. Die Schmerz- und Triggerpunkte für die statische Behandlung werden zunächst getastet. Dann wird die Behandlung mit der Ausgangsleistung verabreicht.  Jeder Schmerz- oder Triggerpunkt wird behandelt.  Es ist zu beachten, dass Triggerpunkte häufig außerhalb des Schmerzbereichs liegen.\n\nDynamische Behandlung\nFür dynamische Behandlungen wird der mittelgroße Applikator verwendet. Ein direkter Hautkontakt ist nicht erforderlich. Wenn Hautkontakt erwünscht ist, sorgen Sie dafür, dass die Haut trocken und sauber ist.\nSchmerz- oder Behandlungszonen werden zunächst getastet. Die Behandlung wird mit der Ausgangsleistung verabreicht. Achten Sie darauf, dass die gesamte Behandlungszone behandelt wird.\n\nBehandlungsenergie und Behandlungszeit\nDie maximal zu übertragende Energie sollte nicht höher sein als in den Behandlungsempfehlungen angegeben. Achten Sie jedoch darauf, niemals eine höhere Energie zu verwenden als der Patient ertragen kann.\n\nEs sollten mindestens zwei Therapiesitzungen pro Woche stattfinden.\n\n\nFoto: Ulrich Steinle\n\n",
+        "flyer": ""
+      },
+      {
+        "id": "elektrotherapie",
+        "name": "Elektrotherapie",
+        "image": "Elektrotherapie",
+        "description": "\n\nEin bewährtes, hochwirksames Therapieverfahren ohne Nebenwirkungsproblematik.\n\nInfos im Patientenflyer\n\n\nFoto: Ulrich Steinle\n\n",
+        "flyer": "Patientenflyer_Soleo_PhySys_2017"
+      },
+      {
+        "id": "ultraschalltherapie",
+        "name": "Ultraschalltherapie",
+        "image": "Ultraschall_Therapie",
+        "description": "\n\nSoleo Sono\n\n\nNeue Akzente in der Ultraschalltherapie.\n\nDas kompakte Gerät für die Ultraschalltherapie – mit dem patentierten SonoSwing-Verfahren. Das mit grafischem Touch ausgestattete Therapiesystem ist einfach zu bedienen und mit einem Gewicht von gerade einmal 3 kg ideal für den mobilen Einsatz.\n\n\nSonoSwing – Sie wählen die Eindringtiefe\n\nSoleo Sono ist mit einem ergonomischen Mehrfrequenzschallkopf ausgestattet, der die gleichzeitige Abgabe von 2 Frequenzen ermöglicht:\n\n• 0,8 MHz – Tiefenwirkung\n• 2,4 MHz – Oberflächenwirkung\n\nDurch das Verfahren SonoSwing ist der prozentuale Anteil der beiden Frequenzen frei wählbar. So bestimmen Sie die Eindringtiefe und den Wirkungsort Ihrer Ultraschalltherapie selbst.\n\nAnwendungsspektrum\n\n• Chronisch entzündliche Erkrankungen des Stütz- und Bewegungsapparates\n• Degenerative und posttraumatische Erkrankungen des Stütz- und Bewegungsapparates\n• Reflektorisch beeinflußbare Funktionsstörungen innerer Organe.\n\n\nFoto: Zimmer MedizinSysteme\n\n",
+        "flyer": ""
+      },
+      {
+        "id": "kurzwellentherapie",
+        "name": "Kurzwellentherapie",
+        "image": "Kurzwellentherapie",
+        "description": "\n\nHochfrequenzen mit sehr kurzen Wellenlängen, oberhalb des Lang- und Mittelwellenbereiches, bewirken hierbei eine Wärmebildung im Gewebe und damit eine heilende Wirkung. Die Kurzwellen werden entweder durch die Kondensatorfeldmethode oder die Spulenfeldmethode erzeugt. Dabei werden elektrische und magnetische Felder aufgebaut.\n\nWann und bei wem wird die Kurzwellentherapie angewandt?\n\n• Zur Schmerzreduktion, besonders im rheumatischen Formenkreis\n• Zur Behandlung von chronischen Entzündungen\n• Zur Behandlung von Infektionen im HNO - Bereich, wie chronische Bronchitis und Ohrenentzündungen\n• Bei gynäkologischen Erkrankungen\n• Bei Störungen des Bewegungsapparates, wie statischen Defiziten, etwa dem Knick-Senk-Spreizfuß, bei Gelenkverschleiß und verschleißbedingten Veränderungen der Wirbelsäule\n• Bei Muskelverspannungen und Muskelschwäche\n• Zum Abbau von Schwellungen im Hautbereich.\n\nInfos im Patientenflyer\n\n\nFoto: Ulrich Steinle\n\n",
+        "flyer": "ThermoPRO-Patientenflyer"
+      },
+      {
+        "id": "traktionsbehandlung",
+        "name": "Traktionsbehandlung",
+        "image": "Handtuch_Physion",
+        "description": "\n\nSchlingentisch\n\n\n1 Definition\n\nEin Schlingentisch ist eine metallische, stabile Vorrichtung welche zur physiotherapeutischen Mobilisation und Stabilisation, sowie zur Schmerztherapie eingesetzt werden kann. Der Patient wird auf eine fixierte Liege oder Massagebank unter dem Schlingentisch in verschiedenen Ausgangsstellungen gelagert.\n\n\n2 Aufhängevarianten\n\nEs bestehen eine Reihe von Aufhängvarianten zur zweckmäßigen Nutzung des Schlingentisches:\n\n• Armaufhängung\n• Beinaufhängung\n• Handaufhängung\n• Fußaufhängung\n• Bein-Beckenaufhängung\n• Kopf-Armaufhängung\n• Ganzkörperaufhängung\n\n\nEs ist auch möglich einzelne Extremitäten oder Körperabschnitte aufzuhängen. Die Varianten können auch mit anderen Ausgangsstellungen durchgeführt werden (z.B. Seit-, Sitz-, Rücken-, Bauchlage)\n\nDer Patient wird dabei durch Schlingen, welche an Seilzügen befestigt sind in eine beliebige, schmerzfreie Stellung gebracht. Es gibt verschiedene Anwendungen, die im Schlingentisch durchgeführt werden. Die Reduktion der Schwerkraft macht die Behandlung hubarmer, somit leichter für den Patient und für den Therapeuten.\n\n\n3 Bewegungstechniken\n\nJe nach Betrachtung der Aufhängung und des Gelenkes können verschiedene Bewegungen durchgeführt werden:\n\n• Dehnungen einer oder mehrerer Muskeln\n\t• Längsdehnungen\n\t• Querdehnungen\n\n• Aktive Dehnungen\n\t• n Rückenlage und Beinaufhängung: Abduktionsbewegung / Adduktionsbewegung im Hüftgelenk\n\t• Aktive Dehnungen, z.B. der Adduktoren\n\n• Andere Dehnungen\n\t• Postisometrische Relaxation\n\t• Antagonistenhemmung\n\n\n4 Weitere Techniken\n\n• Massage: Am Schlingentisch sind verschiedene Massagegriffe gut dürchführbar, unter anderem: Friktionen, Petrisage, Efleurage, BGM, mobilisierende Massagen\n\n• Kräftigungsübungen sind durch das achsengerechte Bewegen im Schlingentisch gut möglich; dabei können Gewichte benutzt werden oder der Therapeut kann Widerstand geben.\n\n• Übungen aus der funktionellen Bewegungslehre: Widerlagernde Mobilisation mit leichter, schmerzfreier Bewegung von Gelenken, ggf. kombiniert mit Kaudalgleiten.\n\n\nFoto: Ulrich Steinle\n\n",
+        "flyer": ""
+      }
+    ]
+  }
+]

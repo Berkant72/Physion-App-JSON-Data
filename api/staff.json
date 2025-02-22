@@ -1,0 +1,241 @@
+[
+  {
+    "id": "Hoschiar-Aziz",
+    "name": "Hoschiar",
+    "surname": "Aziz",
+    "position": "Inhaber / Geschäftsführer",
+    "expertise": "Physiotherapeut",
+    "description": "Inhaber/Geschäftsführer und staatlich anerkannter Physiotherapeut",
+    "further_education": [
+      "Manuelle Therapie (MT)",
+      "Craniomandibuläre Dysfunktion (CMD)",
+      "Krankengymnastik am Gerät (KGG)",
+      "Faszien Therapie mit Fazer", 
+      "Kopfschmerz-Syndrome", 
+      "Migränetherapie und Schwindelbehandlungen"
+    ],
+    "special_field": [
+      "Athletenbetreuung",
+      "Behandlung von Craniomanidbulärer Dysfunktion (CMD)", 
+      "Schwindel- und Migränebehandlungen", 
+      "Physiotherapeutische Betreuung und Begleitung - Internationale Patienten"
+    ],
+    "supervised_associations": [
+      "TSG-Hoffenheim (BL Frauen und Mädchenfußball seit 2019)",
+      "FSV 08 Bissingen (OL Fußball seit 2019)",
+      "RED DEVILS Heilbronn (BL Ringen, 2018)",
+      "Salt-Miners-Heilbronn (RL 2018)",
+      "SC-Abstatt (BZL Fußball, 2017/18)",
+      "SV-Schluchtern (LL Fußball, 2017)",
+      "FC-Union-Heilbronn (BZL, 2017)",
+      "Vfl-Sindelfingen (BL Fußball Frauen, 2013-2015)"
+    ],
+    "languages": [
+      "deutsch",
+      "englisch",
+      "kurdisch", 
+      "französisch\n\n"
+    ],
+    "image": "Hoschiar-Aziz"
+  },
+  {
+    "id": "Jacqueline-Stolz",
+    "name": "Jacqueline",
+    "surname": "Stolz",
+    "position": "Praxis-Managerin (IHK)",
+    "expertise": "Physiotherapeutin",
+    "description": "Praxis-Managerin (IHK) /\nStaatlich anerkannte Physiotherapeutin und Kinderphysiotherapeutin",
+    "further_education": [
+      "Manuelle Lymphdrainage (MLD)",
+      "Bobath-Kinder",
+      "Kinesio-Taping", 
+      "Kopfschmerz-Syndrome", 
+      "Migränetherapie und Schwindelbehandlungen", 
+      "Praxismanager"
+    ],
+    "special_field": [
+      "Athletenbetreuung",
+      "Physiotherapeutische Behandlung von Kindern auch in Einrichtungen"
+    ],
+    "supervised_associations": [
+      "Bezirksliga Herren des FSV Bad Friedrichshall",
+      "Landesliga Herren des SV Leingarten"
+    ],
+    "languages": [
+      "deutsch",
+      "englisch\n\n"
+    ],
+    "image": "Jacqueline-Stolz"
+  },
+  {
+    "id": "Levente-Becsi",
+    "name": "Levente",
+    "surname": "Becsi",
+    "position": "",
+    "expertise": "Physiotherapeut",
+    "description": "Staatlich anerkannter Physiotherapeut",
+    "further_education": [
+      "Krankengymnastik (KG)",
+      "KMT",
+      "Krankengymnastik  am Gerät",
+      "Craniomandibuläre Dysfunktion (CMD)"
+    ],
+    "special_field": [
+      "Behandlung von Schulter- und Nackenproblemen"
+    ],
+    "supervised_associations": [
+      ""
+    ],
+    "languages": [
+      "deutsch",
+      "englisch",
+      "ungarisch\n\n"
+    ],
+    "image": "Levente-Becsi"
+  },
+  {
+    "id": "Daniel-Antic",
+    "name": "Daniel",
+    "surname": "Antic",
+    "position": "",
+    "expertise": "Physiotherapeut",
+    "description": "Staatlich anerkannter Physiotherapeut",
+    "further_education": [
+      "Manuelle Therapie (MT)",
+      "Taping‍",
+      "Personal Trainer‍",
+      "Bobath-Therapie",
+      "Lymphdrainage"
+    ],
+    "special_field": [
+      ""
+    ],
+    "supervised_associations": [
+      ""
+    ],
+    "languages": [
+      "deutsch",
+      "englisch\n\n"
+    ],
+    "image": "Daniel-Antic"
+  },
+  {
+    "id": "Elena-Kujundzic",
+    "name": "Elena",
+    "surname": "Kujundzic",
+    "position": "",
+    "expertise": "Physiotherapeutin",
+    "description": "Staatlich anerkannter Physiotherapeutin",
+    "further_education": [
+      "Lymphdrainage"
+    ],
+    "special_field": [
+      ""
+    ],
+    "supervised_associations": [
+      ""
+    ],
+    "languages": [
+      "deutsch",
+      "englisch\n\n"
+    ],
+    "image": "Elena-Kujundzic"
+  },
+  {
+    "id": "Hawar-Aziz",
+    "name": "Hawar",
+    "surname": "Aziz",
+    "position": "Patienten- und Terminmanagement",
+    "expertise": "Anmeldung",
+    "description": "Terminierung und Organisation der Anmeldung",
+    "further_education": [
+      "Organisationsmanagement"
+    ],
+    "special_field": [
+      "Patientenmanagement"
+    ],
+    "supervised_associations": [
+      ""
+    ],
+    "languages": [
+      "deutsch",
+      "englisch",
+      "kurdisch",
+      "arabisch\n\n"
+    ],
+    "image": "Hawar-Aziz"
+  },
+  {
+    "id": "Kristina-Schirmer",
+    "name": "Kristina",
+    "surname": "Schirmer",
+    "position": "Businessmanagement",
+    "expertise": "Back Office",
+    "description": "Finanzmanagement",
+    "further_education": [
+      "Businessmanagement", 
+      "Qualitätsmanagement-Beauftragte"
+    ],
+    "special_field": [
+      "Qualitäts- und Finanzmanagement"
+    ],
+    "supervised_associations": [
+      ""
+    ],
+    "languages": [
+      "deutsch",
+      "englisch",
+      "französisch\n\n"
+    ],
+    "image": "Kristina-Schirmer"
+  },
+  {
+    "id": "Mladen-Matovic",
+    "name": "Mladen",
+    "surname": "Matovic",
+    "position": "Projekt & IT Management",
+    "expertise": "Projektmanager",
+    "description": "Projektmanagement",
+    "further_education": [
+      "Bachelor in Fitnesseconomy", 
+      "Sicherheits und Brandschutzbeauftragter", 
+      "Projektmanager", 
+      "Schweißer", 
+      "IT Spezialist"
+    ],
+    "special_field": [
+      "Praxisprojekte und IT"
+    ],
+    "supervised_associations": [
+      ""
+    ],
+    "languages": [
+      "deutsch",
+      "englisch",
+      "serbokroatisch", 
+      "französisch\n\n"
+    ],
+    "image": "Mladen-Matovic"
+  },
+  {
+    "id": "Cemil-Altintas",
+    "name": "Cemil",
+    "surname": "Altintas",
+    "position": "Facilitymanagement",
+    "expertise": "",
+    "description": "",
+    "further_education": [
+      ""
+    ],
+    "special_field": [
+      ""
+    ],
+    "supervised_associations": [
+      ""
+    ],
+    "languages": [
+      "deutsch\n\n"
+    ],
+    "image": "Cemil-Altintas"
+  }
+]
